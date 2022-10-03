@@ -5,6 +5,9 @@
         },
         {
             "path": "../../CODE SAMPLES"
+        },
+        {
+            "path": "../Déployez une API de prédiction"
         }
     ],
     "settings": {}
