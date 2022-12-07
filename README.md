@@ -8,3 +8,28 @@
 - Mise en place d'une API pour appeler le modèle de prédiction (FastAPI/Heroku) 
 - Construction d'un dashboard interactif à destination des gestionnaires de relation client (Streamlit)
 - Utilisation de github pour versioning
+
+# Installation
+- L'installation est recommandée dans un environnement Anaconda contenant:
+  - pandas
+  - seaborn
+  - numpy
+  - matplotlib
+  - dill
+  - scikit-learn
+  - scipy
+  - lightgbm
+  - joblib
+  - pickle
+  - xgboost
+  - shap
+  
+# Usage
+- INPUT DATA
+  - toutes les données input doivent résider dans un dossier appelé data/raw/. 
+  - Le dossier 'data' doit être au même niveau que le dossier du projet
+- OUTPUT
+  - Data
+    - résidera dans un sous-dossier du dossier de données, appelé "cleaned"
+  - Models
+    - résidera dans un sous-dossier du dossier du projet, appelé 'model'
