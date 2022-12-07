@@ -33,3 +33,9 @@
     - résidera dans un sous-dossier du dossier de données, appelé "cleaned"
   - Models
     - résidera dans un sous-dossier du dossier du projet, appelé 'model'
+- Execution
+  - Lancez:
+    - 01 MERGING.ipynb (fusionne les données)
+    - 02 CLEANING.ipynb (nettoie les données)
+    - 03 MODELLING NEW DATA.ipynb (sélection du modèle)
+    - CREATE DASHBOARD CLIENT 1K FILES.ipynb (création de tranches de données pour tableau de bord, API)
